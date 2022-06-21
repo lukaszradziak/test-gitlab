@@ -1,1 +1,1 @@
-from gitlab
+from gitlab2
